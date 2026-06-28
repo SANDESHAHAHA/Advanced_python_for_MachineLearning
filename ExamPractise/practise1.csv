@@ -1,0 +1,7 @@
+OrderID,Category,Price,Quantity,Rating,DeliveryDays
+O01,Electronics,15000.0,2.0,4.5,3.0
+O02,Clothing,,5.0,3.8,5.0
+O03,Electronics,22000.0,1.0,,2.0
+O04,Clothing,1800.0,,4.1,
+O05,Books,450.0,8.0,4.7,4.0
+O06,Books,,3.0,3.9,6.0
